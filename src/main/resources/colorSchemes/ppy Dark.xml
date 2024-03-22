@@ -1,10 +1,10 @@
 <scheme name="ppy Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-07-17T15:29:22</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-07-17T15:29:24</property>
+    <property name="created">2024-03-22T15:58:02</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.3.5.0.0</property>
+    <property name="modified">2024-03-22T15:58:08</property>
     <property name="originalScheme">_@user_ppy Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -268,9 +268,9 @@
         <option name="BACKGROUND" value="282c36" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+    <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
